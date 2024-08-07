@@ -15,6 +15,7 @@ Artificial Intelligence, Robotics, Financial Education
 - Project Management
 - Python
 - C Programming
+- Java Programming
 
 ## 📂 Projects
 - Image-Compression-with-SVD-and-PCA: https://github.com/tommycass/Image-Compression-with-SVD-and-PCA
