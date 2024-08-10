@@ -1,4 +1,4 @@
-# 👤 Hi, I'm Tomás Castro 👋
+# 👤 Hey there, I'm Tomás Castro 👋
 
 ## 📚 Fields of Interest
 Artificial Intelligence, Robotics, Financial Education
