@@ -14,6 +14,7 @@ Artificial Intelligence, Robotics, Financial Education
 - Software Design
 - Project Management
 - Python
+- Machine Learning 
 - C Programming
 - Java Programming
 
